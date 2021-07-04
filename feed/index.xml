@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lilkduy.github.io/lilllllkDuy</link>
 	<description>Leo lên đồi: Sự chuyển đổi bài tập thể dục thể chất tối ưu</description>
-	<lastBuildDate>Thu, 10 Jun 2021 03:25:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 07:23:37 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -41,7 +41,15 @@
 		<guid isPermaLink="false">https://lilkduy.github.io/lilllllkDuy/?p=319</guid>
 
 					<description><![CDATA[Thực hiện mỗi bài tập trong 30 giây liên tục. KHÔNG nghỉ ngơi giữa các bài tập. Hoàn thành 1 hiệp. 1. Giữ tư thế trồng cây chuối trong 30 giây Bạn có thể thực hiện động tác trồng cây chuối bằng cách sử dụng một bức tường để làm điểm tựa. Đặt tay của &#8230; ]]></description>
-										<content:encoded><![CDATA[
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="319" class="elementor elementor-319" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-62fa63ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62fa63ea" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d36a858" data-id="4d36a858" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e2c1082 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2e2c1082" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;swing&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">Thực hiện mỗi bài tập trong 30 giây liên tục. KHÔNG nghỉ ngơi giữa các bài tập. Hoàn thành 1 hiệp.
 
 1. Giữ tư thế trồng cây chuối trong 30 giây
@@ -70,21 +78,41 @@ Vào tư thế chùng xuống — đầu gối sau ngay trên sàn và đầu g�
 Nhảy từ bên này sang bên kia, đứng vững trên đôi chân của bạn.
 
 10. Kéo co</pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:preformatted -->
 <pre id="tw-target-rmn" class="wp-block-preformatted"></pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:image {"id":237,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img loading="lazy" width="20" height="20" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/image.png" alt="Biểu tượng Cộng đồng đã xác minh" class="wp-image-237"/></figure>
+<!-- /wp:image -->
 
-
-
+<!-- wp:embed {"url":"https://youtu.be/mtYQ3e06A0U","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="jetpack-video-wrapper"><iframe loading="lazy" title="STREET WORKOUT MONSTER - Best of Chris Heria" width="925" height="520" src="https://www.youtube.com/embed/mtYQ3e06A0U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
-]]></content:encoded>
+<!-- /wp:embed -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-ed4d9e6 elementor-widget elementor-widget-progress" data-id="ed4d9e6" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">100%</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" aria-valuetext="làm đc chúc mừng nha tui còn làm chưa đc :)))">
+			<div class="elementor-progress-bar" data-max="50">
+				<span class="elementor-progress-text">làm đc chúc mừng nha tui còn làm chưa đc :)))</span>
+									<span class="elementor-progress-percentage">50%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://lilkduy.github.io/lilllllkDuy/noi-dau-nhoi/workout-3-advanced-calisthenics-circuit-routine/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -102,7 +130,15 @@ Nhảy từ bên này sang bên kia, đứng vững trên đôi chân của bạ
 		<guid isPermaLink="false">https://lilkduy.github.io/lilllllkDuy/?p=317</guid>
 
 					<description><![CDATA[Nghỉ 5 giây giữa các bài tập và 8 phút khi kết thúc một hiệp. Lặp lại trong 2 hiệp. 1. 5 lần tăng cơ Treo người từ một thanh kéo với hai tay rộng bằng vai và chân duỗi thẳng. Kéo hai bả vai của bạn ra sau và lại với nhau và cong &#8230; ]]></description>
-										<content:encoded><![CDATA[
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="317" class="elementor elementor-317" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-4eaa97e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4eaa97e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f3d0156" data-id="f3d0156" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2c490c27 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="2c490c27" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">Nghỉ 5 giây giữa các bài tập và 8 phút khi kết thúc một hiệp. Lặp lại trong 2 hiệp.
 
 1. 5 lần tăng cơ
@@ -123,17 +159,33 @@ Nằm ngửa trên sàn và hóp xương cụt để lưng dưới chạm sàn. 
 
 8. Chạy nước rút 30 giây, không ngừng nghỉ
 Chạy lên đồi nếu bạn có thể, hoặc chạy tại chỗ.</pre>
+<!-- /wp:preformatted -->
 
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/M7cxdRXhc3M
-</div></figure>
-</div>
-</div>
-]]></content:encoded>
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:block {"ref":233} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->						</div>
+				</div>
+				<div class="elementor-element elementor-element-f6a7a26 elementor-widget elementor-widget-progress" data-id="f6a7a26" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">tập 3 ngày</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="39" aria-valuetext="cải thiện phần bụng ">
+			<div class="elementor-progress-bar" data-max="39">
+				<span class="elementor-progress-text">cải thiện phần bụng </span>
+									<span class="elementor-progress-percentage">39%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://lilkduy.github.io/lilllllkDuy/noi-dau-nhoi/workout-2-intermediate-calisthenics-circuit-workout/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -151,7 +203,15 @@ https://youtu.be/M7cxdRXhc3M
 		<guid isPermaLink="false">https://lilkduy.github.io/lilllllkDuy/?p=315</guid>
 
 					<description><![CDATA[Thực hiện tất cả các bài tập theo thứ tự được hiển thị, nghỉ 30 giây giữa các bài tập và 3 phút sau đó. Lặp lại trong 3 hiệp. 1. 10 lần kéo lên Thực hiện những động tác này với lòng bàn tay hướng ra xa bạn, hai tay cách nhau rộng bằng &#8230; ]]></description>
-										<content:encoded><![CDATA[
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="315" class="elementor elementor-315" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-35fabb elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="35fabb" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5a17b084" data-id="5a17b084" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7bcede25 elementor-widget elementor-widget-text-editor" data-id="7bcede25" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">Thực hiện tất cả các bài tập theo thứ tự được hiển thị, nghỉ 30 giây giữa các bài tập và 3 phút sau đó. Lặp lại trong 3 hiệp.
 
 1. 10 lần kéo lên
@@ -168,33 +228,96 @@ Ngồi xổm xuống cho đến khi đùi song song với sàn và nhảy cao h�
 
 5. 20 lần chống đẩy
 Hạ thấp cơ thể của bạn cho đến khi ngực của bạn cao hơn sàn khoảng một inch. Cơ thể bạn nên tạo thành một đường thẳng từ đầu đến gót chân. Tích cực kéo xương sườn và xương chậu về phía nhau, tập trung vào phần cốt lõi của bạn — đừng để lưng dưới của bạn bị chùng xuống.</pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:paragraph -->
 <p>Do all the exercises in the order shown, resting 30 seconds between exercises and 3 minutes afterward. Repeat for 3 rounds.</p>
+<!-- /wp:paragraph -->
 
-
-
+<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">6. 50 crunches
 Cong thân của bạn lên cho đến khi bả vai của bạn khỏi sàn</pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:paragraph -->
 <p></p>
+<!-- /wp:paragraph -->
 
-
-
+<!-- wp:image {"align":"right","id":212,"width":301,"height":306,"sizeSlug":"large","className":"is-style-default"} -->
 <div class="wp-block-image is-style-default"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2.jpg" alt="" class="wp-image-212" width="301" height="306" srcset="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2.jpg 564w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2-295x300.jpg 295w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2-59x60.jpg 59w" sizes="(max-width: 301px) 100vw, 301px" /></figure></div>
+<!-- /wp:image -->
 
-
-
+<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">7. 10 burpee
 Đứng với chân rộng bằng vai và ngồi xổm xuống để đặt hai tay xuống sàn. Bây giờ bắn nhanh chân ra phía sau để bạn kết thúc ở vị trí cao nhất của một cú chống đẩy. Nhảy chân của bạn lên lại để chúng tiếp đất giữa hai tay của bạn và sau đó nhanh chóng đứng lên.</pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:paragraph -->
 <p><br>8. 30 giây nhảy dây</p>
-]]></content:encoded>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-418b30a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="418b30a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22eca83" data-id="22eca83" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-86b6a55 elementor-widget elementor-widget-progress" data-id="86b6a55" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">Kĩ năng của tôi</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" aria-valuetext="Nhà thiết kế web">
+			<div class="elementor-progress-bar" data-max="100">
+				<span class="elementor-progress-text">Nhà thiết kế web</span>
+									<span class="elementor-progress-percentage">100%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-75b9982 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="75b9982" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check-double"></i>						</span>
+										<span class="elementor-icon-list-text">Mục danh sách #1 điều quang trọng là phải thường xuyên</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-trophy"></i>						</span>
+										<span class="elementor-icon-list-text">Mục danh sách #2 ăn uống đủ cử</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-dove"></i>						</span>
+										<span class="elementor-icon-list-text">Mục danh sách #3 ngủ đủ giấc 8H đồng hồ ngày </span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6cb9fc0 elementor-invisible elementor-widget elementor-widget-text-path" data-id="6cb9fc0" data-element_type="widget" data-settings="{&quot;text&quot;:&quot;np need LILK&quot;,&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;rotateInDownLeft&quot;,&quot;link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;}}" data-widget_type="text-path.default">
+				<div class="elementor-widget-container">
+					<div class="e-text-path">
+			<svg xmlns="http://www.w3.org/2000/svg" width="250.4348" height="239.4454" viewBox="0 0 250.4348 239.4454"><path d="M.1848,49.0219a149.3489,149.3489,0,0,1,210.9824-9.8266,119.479,119.479,0,0,1,7.8613,168.786A95.5831,95.5831,0,0,1,84,214.27a76.4666,76.4666,0,0,1-5.0312-108.023"/></svg>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-db31af3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="db31af3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b58bf3d" data-id="b58bf3d" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://lilkduy.github.io/lilllllkDuy/noi-dau-nhoi/calisthenics-workout-1-beginner-calisthenics-circuit-workout/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -217,9 +340,18 @@ Cong thân của bạn lên cho đến khi bả vai của bạn khỏi sàn</pre
 		<category><![CDATA[Workout]]></category>
 		<guid isPermaLink="false">https://lilkduy.github.io/lilllllkDuy/?p=186</guid>
 
-					<description><![CDATA[Chia sẻ trên pinterest Tất cả các bài tập của tôi liên quan đến một điều: các bài tập thể dục dưỡng sinh hoặc các bài tập thể dục trọng lượng cơ thể. Tôi thực hiện tất cả các bài tập của mình trên các thanh song song, thanh kéo hoặc trên mặt đất. Tôi &#8230; ]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[Chia sẻ trên pinterest 1/calisthenics workout (Minimalist) Tất cả các bài tập của tôi liên quan đến một điều: các bài tập thể dục dưỡng sinh hoặc các bài tập thể dục trọng lượng cơ thể. Tôi thực hiện tất cả các bài tập của mình trên các thanh song song, thanh kéo hoặc trên &#8230; ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="186" class="elementor elementor-186" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-a89e576 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="a89e576" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d93453" data-id="1d93453" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2328facf elementor-widget elementor-widget-text-editor" data-id="2328facf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<!-- wp:preformatted -->
 <pre id="tw-target-text" class="wp-block-preformatted">Chia sẻ trên pinterest
+<h2><strong>1/calisthenics workout (Minimalist)</strong></h2>
 Tất cả các bài tập của tôi liên quan đến một điều: các bài tập thể dục dưỡng sinh hoặc các bài tập thể dục trọng lượng cơ thể. Tôi thực hiện tất cả các bài tập của mình trên các thanh song song, thanh kéo hoặc trên mặt đất.
 
 Tôi đã từng thích cử tạ nặng, nhưng gần đây đã chuyển sang chế độ tập luyện thể hình thuần túy.
@@ -245,22 +377,217 @@ Tôi tập luyện sáu ngày một tuần, một giờ đến một giờ 30 ph
 Tôi sẽ chia sẻ bốn bài tập về mạch của tôi với bạn. Một cái dành cho người mới bắt đầu, hai cái dành cho những người tập nâng cao hơn và một cái chỉ dành cho những vận động viên khắc nghiệt.
 
 Tìm bài tập phù hợp nhất với bạn và nếu bạn kiên trì, bạn sẽ thấy kết quả sau chưa đầy hai tháng.</pre>
+<!-- /wp:preformatted -->
 
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%">
-<pre id="tw-target-text" class="wp-block-preformatted"><strong><span class="has-inline-color has-luminous-vivid-orange-color">Làm thế nào để kéo căng cho một buổi tập luyện mạch Calisthenics</span></strong>
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:preformatted -->
+<pre id="tw-target-text" class="wp-block-preformatted"><strong><span class="has-inline-color has-luminous-vivid-orange-color">bài tập thể dục thể chất tối ưu
+</span></strong>
+&lt;h2&gt;&lt;strong&gt;1/calisthenics workout (Minimalist)&lt;/strong&gt;&lt;/h2&gt;
 Hãy theo dõi các video dưới đây để biết các thói quen làm nóng toàn bộ cơ thể trước khi tập luyện. Để biết thêm mẹo về khả năng di chuyển và kéo giãn cơ, hãy theo dõi Huấn luyện viên độ bền của calisthenics chris heria</pre>
+<!-- /wp:preformatted -->
 
-
-
+<!-- wp:embed {"url":"https://youtu.be/d8bcNqKYwKo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="jetpack-video-wrapper"><iframe loading="lazy" title="6 Moves To MASTER CALISTHENICS" width="925" height="520" src="https://www.youtube.com/embed/d8bcNqKYwKo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>&lt;h2&gt;&lt;strong&gt;1/calisthenics workout (Minimalist)&lt;/strong&gt;&lt;/h2&gt;
+
+</code></pre>
+<!-- /wp:code -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-95de15b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="95de15b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+								</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1935201 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="1935201" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1f976ed" data-id="1f976ed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2fc1538 elementor-widget elementor-widget-progress" data-id="2fc1538" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">calisthenics workout</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="93" aria-valuetext="Nhà thiết kế web">
+			<div class="elementor-progress-bar" data-max="93">
+				<span class="elementor-progress-text">Nhà thiết kế web</span>
+									<span class="elementor-progress-percentage">93%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-61fd2bb elementor-shape-circle elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="61fd2bb" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-ce30f68" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-e68b2e3" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-b75f612" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-snapchat elementor-repeater-item-ac1d78e" target="_blank">
+						<span class="elementor-screen-only">Snapchat</span>
+						<i class="fab fa-snapchat"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-spotify elementor-repeater-item-1328aec" target="_blank">
+						<span class="elementor-screen-only">Spotify</span>
+						<i class="fab fa-spotify"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-soundcloud elementor-repeater-item-07a75d8" target="_blank">
+						<span class="elementor-screen-only">Soundcloud</span>
+						<i class="fab fa-soundcloud"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f0189de" data-id="f0189de" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e335ae7 elementor-widget elementor-widget-sidebar" data-id="e335ae7" data-element_type="widget" data-widget_type="sidebar.default">
+				<div class="elementor-widget-container">
+			<section id="text-4" class="widget widget_text"><h2 class="widget-title" itemprop="name">um trang này mình viết á sau bao lần đúc luyện</h2>			<div class="textwidget"><p>nên bạn nào thích thì cứ lấy coi mình để đây nào lên sì skill thì mình cập nhập thêm <img loading="lazy" class="wp-image-197 alignright" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-295x300.jpg" alt="" width="214" height="217" srcset="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-295x300.jpg 295w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-59x60.jpg 59w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a.jpg 564w" sizes="(max-width: 214px) 100vw, 214px" /></p>
 </div>
-</div>
-]]></content:encoded>
+		</section>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-75a9fb9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75a9fb9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2246e22" data-id="2246e22" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-54127b6 elementor-widget elementor-widget-heading" data-id="54127b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">các bài tập gồm 
+B1 ,B2 B3</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d67fdb0" data-id="d67fdb0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-630c7b5 elementor-widget elementor-widget-progress" data-id="630c7b5" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">Kĩ năng của tôi</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100" aria-valuetext="đã trãi nghiệm hoàn thành">
+			<div class="elementor-progress-bar" data-max="100">
+				<span class="elementor-progress-text">đã trãi nghiệm hoàn thành</span>
+									<span class="elementor-progress-percentage">100%</span>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3757ed8" data-id="3757ed8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ef576d1 elementor-widget elementor-widget-heading" data-id="ef576d1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">hình ảnh vóc dáng hướng tới </h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-208b128 elementor-section-full_width animated-fast elementor-section-height-default elementor-section-height-default" data-id="208b128" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e0f489" data-id="4e0f489" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1536ccf elementor-widget elementor-widget-image-carousel" data-id="1536ccf" data-element_type="widget" data-settings="{&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/07/06e375114f8409fa3c49eee9d2eabbe9.jpg" alt="06e375114f8409fa3c49eee9d2eabbe9" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/07/31f4ebcf88fd9f819b60dc5c36c89e51-300x300.jpg" alt="31f4ebcf88fd9f819b60dc5c36c89e51" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/07/cfc817d07f18385d01bbad78dac11672-Copy-Copy-Copy-300x300.jpg" alt="cfc817d07f18385d01bbad78dac11672 - Copy - Copy - Copy" /></figure></div>			</div>
+																</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cb9cd0c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="cb9cd0c" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;bounceInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37c9acd" data-id="37c9acd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d326185 elementor-invisible elementor-widget elementor-widget-heading" data-id="d326185" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInDown&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><!-- wp:preformatted -->
+<pre id="tw-target-text" class="wp-block-preformatted">Thực hiện tất cả các bài tập theo thứ tự được hiển thị, nghỉ 30 giây giữa các bài tập và 3 phút sau đó. Lặp lại trong 3 hiệp.
+
+1. 10 lần kéo lên
+Thực hiện những động tác này với lòng bàn tay hướng ra xa bạn, hai tay cách nhau rộng bằng vai.
+
+2. 10 cằm
+Lòng bàn tay hướng về phía bạn, hai tay rộng bằng vai.
+
+3. 20 lần nhúng
+Sử dụng các thanh song song và hạ thấp cơ thể của bạn cho đến khi cánh tay trên của bạn song song với sàn nhà.
+
+4 . 25 lần nhảy squat
+Ngồi xổm xuống cho đến khi đùi song song với sàn và nhảy cao hết mức có thể.
+
+5. 20 lần chống đẩy
+Hạ thấp cơ thể của bạn cho đến khi ngực của bạn cao hơn sàn khoảng một inch. Cơ thể bạn nên tạo thành một đường thẳng từ đầu đến gót chân. Tích cực kéo xương sườn và xương chậu về phía nhau, tập trung vào phần cốt lõi của bạn — đừng để lưng dưới của bạn bị chùng xuống.</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>Do all the exercises in the order shown, resting 30 seconds between exercises and 3 minutes afterward. Repeat for 3 rounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre id="tw-target-text" class="wp-block-preformatted">6. 50 crunches
+Cong thân của bạn lên cho đến khi bả vai của bạn khỏi sàn</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","id":212,"width":301,"height":306,"sizeSlug":"large","className":"is-style-default"} -->
+<div class="wp-block-image is-style-default"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2.jpg" alt="" class="wp-image-212" width="301" height="306" srcset="https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2.jpg 564w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2-295x300.jpg 295w, https://lilkduy.github.io/lilllllkDuy/wp-content/uploads/2021/06/7e990b18dffd6fc854eb78a7c9adfb2a-2-59x60.jpg 59w" sizes="(max-width: 301px) 100vw, 301px" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:preformatted -->
+<pre id="tw-target-text" class="wp-block-preformatted">7. 10 burpee
+Đứng với chân rộng bằng vai và ngồi xổm xuống để đặt hai tay xuống sàn. Bây giờ bắn nhanh chân ra phía sau để bạn kết thúc ở vị trí cao nhất của một cú chống đẩy. Nhảy chân của bạn lên lại để chúng tiếp đất giữa hai tay của bạn và sau đó nhanh chóng đứng lên.</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p><br>trên  là bài tập khởi động môn chơi </p>calisthenics
+  workout<br>
+<!-- /wp:paragraph --></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://lilkduy.github.io/lilllllkDuy/calisthenics/climbing-the-hill-the-ultimate-calisthenics-workout-transformation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
